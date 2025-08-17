@@ -1,3 +1,4 @@
+A secure and transparent blockchain-based voting system ensuring tamper-proof elections. Built with smart contracts, Web3, and a modern frontend, it guarantees voter authentication, anonymity, and immutable records. Designed for trust in elections, polls, and organizational decision-making.
 
 ![Image Alt](https://github.com/BitwiseWizard-prog/blockchain-voting-system/blob/3f28b9b105e0fc0c5ef2aca8ae118ecca544f1a1/kavisha.png)
 
@@ -6,3 +7,4 @@
 
 
 ![Image Alt](https://github.com/BitwiseWizard-prog/blockchain-voting-system/blob/cd9e7d6b6c9298d2fb56eb674ace53493608284b/kavisha-2.png)
+
