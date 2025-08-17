@@ -5,3 +5,4 @@
 ![Image Alt](https://github.com/BitwiseWizard-prog/blockchain-voting-system/blob/5dbcd48bca7e49d94452631416e34edfa8b9ef21/kavisha-1.png)
 
 
+![Image Alt](https://github.com/BitwiseWizard-prog/blockchain-voting-system/blob/cd9e7d6b6c9298d2fb56eb674ace53493608284b/kavisha-2.png)
